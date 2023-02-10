@@ -1,0 +1,3 @@
+sitting
+standing
+falling
